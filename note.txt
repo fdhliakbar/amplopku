@@ -1,0 +1,13 @@
+Breakpoint
+
+Mobile Device
+landscape: 320 x 480
+vertical: 420 x 320
+
+Tablets
+landscape: 1024 x 768
+vertical: 768 x 1024
+
+
+Desktops
+1680 x 1050
