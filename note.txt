@@ -11,3 +11,10 @@ vertical: 768 x 1024
 
 Desktops
 1680 x 1050
+
+menggunakan boxicons
+https://boxicons.com
+
+Website agar tidak copyright
+unsplash.com
+pexels.com
