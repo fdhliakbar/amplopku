@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="215" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1068" dy="2196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -31,8 +31,10 @@
         <mxCell id="phlCHsFALphJVlGOY4To-9" value="Daftar akun" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1230" y="410" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="phlCHsFALphJVlGOY4To-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="phlCHsFALphJVlGOY4To-11" target="phlCHsFALphJVlGOY4To-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="phlCHsFALphJVlGOY4To-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="phlCHsFALphJVlGOY4To-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1325" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="phlCHsFALphJVlGOY4To-11" value="Isi data diri" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1230" y="520" width="190" height="50" as="geometry" />
@@ -70,17 +72,11 @@
         <mxCell id="phlCHsFALphJVlGOY4To-22" value="Lihat riwayat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1735" y="430" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="phlCHsFALphJVlGOY4To-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="phlCHsFALphJVlGOY4To-24" target="phlCHsFALphJVlGOY4To-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="phlCHsFALphJVlGOY4To-24" value="Akhiri pendaftaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1230" y="620" width="190" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="phlCHsFALphJVlGOY4To-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="phlCHsFALphJVlGOY4To-26" target="phlCHsFALphJVlGOY4To-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phlCHsFALphJVlGOY4To-26" value="Verifikasi akun" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1230" y="720" width="190" height="50" as="geometry" />
+          <mxGeometry x="1230" y="630" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="phlCHsFALphJVlGOY4To-27" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1290" y="338" width="40" height="30" as="geometry" />
